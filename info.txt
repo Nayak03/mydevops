@@ -1,1 +1,2 @@
-this is my first exerciseS
+this is my first exercises
+from the devops course
